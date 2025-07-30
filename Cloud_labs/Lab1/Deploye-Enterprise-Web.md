@@ -23,15 +23,25 @@ navigation pane, choose Service List > Networking > Virtual Private Cloud.
 Step 2: Click Create VPC. 
 Step 3: Configure the parameters as follows, and click Create Now.
 
-(![Huawei Lab Image](https://github.com/user-attachments/assets/b8c33c1f-8f0d-4c29-9974-477c06ea6407)
+(![Lab2](https://github.com/user-attachments/assets/7b0bfaa5-5865-4d00-8647-f86489f54a00)
 )
 
 Step 2 Click Create VPC.
-()
+(![Lab3](https://github.com/user-attachments/assets/2bc4c9a5-39ee-40cb-9805-54de01afdc80)
+)
 
 Step 3 Configure the parameters as follows, and click Create Now. 
 ● Region: AP-Singapore 
 ● Name: vpc-mp (Change it as needed.) 
 ● Retain the default settings for other parameters. 
 
+Step 4 View the created VPC in the VPC list. 
 
+(![Lab4](https://github.com/user-attachments/assets/c94b9dd2-cbfe-4fff-bc00-05d2ffea92ae)
+)
+
+(![Lab5](https://github.com/user-attachments/assets/a5f32c88-e5d6-46b3-a9e2-777c6fafea51)
+)
+1.2 Creating and Configuring a Security Group 
+Step 1 On the Network Console, choose Access Control > Security Groups and create a 
+security group.
